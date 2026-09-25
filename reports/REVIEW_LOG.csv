@@ -1,0 +1,37 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe con o lan gan nhin ro than xe va den,accepted,Box AI nhan dien dung vi tri va kich thuoc om sat than xe giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,hai xe dung sat nhau bi AI gop chung mot box,edited,Tach thanh hai box rieng om sat tung than xe theo quy tac hai xe dung sat nhau trong GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe con mau toi bi che mot phan bi AI bo sot,added,Chi thay mot phan than va den nhung du ranh gioi doan duoc them box cho phan nhin thay theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,xe sedan di o lan giua nhin ro bien so,accepted,Box AI bao quanh chinh xac toan bo than xe giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,nhan nham vet sang den pha chieu tren mat duong thanh xe,deleted,Xoa box khong phai than xe theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,xe o xa nhin ro than bi AI bo sot,added,Than xe va den tren 16 pixel nhin ro theo huong di chuyen bo sung box car theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,xe ban tai chay phia truoc nhin ro khung xe,accepted,Box AI khop dung ranh gioi than xe giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,box AI bi ve lech trum ca vet den chieu xuong duong,edited,Chinh lai box om sat than xe khong tinh vet sang den pha theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,xe tai o xa bi AI bo sot,added,Phuong tien tu 4 banh tro len duoc gan lop car bo sung box theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,xe SUV di o lan phai nhin ro duong vien,accepted,Box AI bao tron phuong tien dung toa do giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,nhan nham bien bao phan quang tren duong thanh xe,deleted,Xoa box do nhan nham khong phai phuong tien tu 4 banh tro len theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,xe con o goc trai mep anh bi bo sot,added,Ve box cho phan than xe nam trong anh theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,xe o to dang di thang nhin ro hai den hau,accepted,Box AI phat hien chuan xac giu nguyen khong can chinh theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,hai xe noi duoi nhau bi AI ve gop chung box,edited,Chinh sua tach thanh hai box rieng biet om sat tung than xe theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,xe toi mau o lan trong cung bi bo sot,added,Doan duoc duong vien than xe quanh cum den them box theo GUIDELINE_LABEL.md
+1,frame_0270.jpg,xe khach chay o lan ngoai cung ro rang,accepted,Box bao tron phuong tien 4 banh hop le giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0270.jpg,box AI ve qua rong bao quanh ca vung toi,edited,Can chinh lai ranh gioi box om sat than xe tinh ca guong va den theo GUIDELINE_LABEL.md
+1,frame_0270.jpg,xe o xa nhin ro than bi AI bo sot,added,Xe co kich thuoc tren 16 pixel bo sung box car theo GUIDELINE_LABEL.md
+1,frame_0312.jpg,xe con di phia truoc o cu ly trung binh,accepted,Box AI bao quanh day du ca den va guong hop le giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0312.jpg,box bat nham dom sang phan chieu o dai phan cach,deleted,Xoa box bat nham anh den phan chieu tren duong theo GUIDELINE_LABEL.md
+1,frame_0312.jpg,xe con di xa dan chi thay hai cham den do,added,Thay than xe mo tren 16 pixel du dieu kien bo sung box car theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,xe o to chay lan trong cung thay ro noc xe,accepted,Box AI phat hien chuan dung ranh gioi giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,box AI ve lech trong tam than xe,edited,Keo chinh ranh gioi box bao tron than xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,cum nhieu xe o lan giua bi AI bo sot,added,Bo sung cac box car rieng biet cho tung xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,xe con dang chay binh thuong khong bi che khuat,accepted,Box AI bao sat than xe dung tieu chuan giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,nhan nham vet phan chieu den pha choi loa tren mat duong,deleted,Xoa box do anh den phan chieu tren mat duong khong phai xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,nhieu xe bi che khuat phia truoc bi AI bo sot,added,Chi ve box cho phan nhin thay cua xe bi che khuat theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,xe tai lon chay o lan giua nhin ro thung xe,accepted,Box AI phat hien xe tai chinh xac giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,box ao o vung troi toi cot den,deleted,Xoa box gia do nhan nham cot den duong theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,hang loat xe con va xe tai o lan xa bi bo sot,added,Bo sung box car cho cac phuong tien 4 banh nhin ro tren 16 pixel theo GUIDELINE_LABEL.md
+1,frame_0380.jpg,xe SUV chay lan ngoai cung den hau sang ro,accepted,Box AI om dung bien dang than xe giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0380.jpg,box AI bi lech khi xe dang chuyen lan,edited,Can chinh lai box om sat than xe dang di chuyen theo GUIDELINE_LABEL.md
+1,frame_0380.jpg,xe o xa va xe ben le phai bi bo sot,added,Bo sung box cho xe o xa tren 16 pixel theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,xe sedan di lan giua dung toc do giu khoang cach,accepted,Box AI nhan dien hop le dung class 0 giu nguyen theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,hai xe di song song bi AI ve dinh box,edited,Tach thanh hai box rieng biet om sat tung xe theo GUIDELINE_LABEL.md
+1,frame_0392.jpg,xe con toi mau di phia truoc bi bo sot,added,Thay than xe va den hau ro rang bo sung box car theo GUIDELINE_LABEL.md
